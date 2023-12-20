@@ -16,4 +16,5 @@ test_lib = []
 [dependencies]
 pico-args = "0.5.0"
 array2d = "0.3.0"
+itertools = "0.12.0"
 
